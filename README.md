@@ -1,0 +1,2 @@
+# django-drinks
+CRUD DJANGO REST_FRAMEWORK APP
